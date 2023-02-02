@@ -1,0 +1,9 @@
+/* Default bridge networking */
+
+- There are 7 main networking possibilities with docker
+- The first one is the Default bridge
+- I'm using ubuntu server as a reference for a host for our networks
+
+// Default bridge
+
+
